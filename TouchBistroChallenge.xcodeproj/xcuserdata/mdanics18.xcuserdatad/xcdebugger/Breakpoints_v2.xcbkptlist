@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TouchBistroChallenge/MenuGroupList.swift"
+            timestampString = "573380904.035141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TouchBistroChallenge/ItemCell.swift"
+            timestampString = "573380904.035243"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ItemCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TouchBistroChallenge.ItemCell.itemTitleLabel.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TouchBistroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mdanics18/Programming/iOS/TouchBistroChallenge/TouchBistroChallenge/ItemCell.swift"
+                  timestampString = "573279022.672503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TouchBistroChallenge.ItemCell.itemTitleLabel.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TouchBistroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mdanics18/Programming/iOS/TouchBistroChallenge/TouchBistroChallenge/ItemCell.swift"
+                  timestampString = "573279022.674292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TouchBistroChallenge.ItemCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TouchBistroChallenge.ItemCell"
+                  moduleName = "TouchBistroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mdanics18/Programming/iOS/TouchBistroChallenge/TouchBistroChallenge/ItemCell.swift"
+                  timestampString = "573279022.676329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TouchBistroChallenge.ItemCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TouchBistroChallenge.ItemCell&gt;"
+                  moduleName = "TouchBistroChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mdanics18/Programming/iOS/TouchBistroChallenge/TouchBistroChallenge/ItemCell.swift"
+                  timestampString = "573279022.678943"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TouchBistroChallenge/MenuItemsList.swift"
+            timestampString = "573380904.035326"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadMenuItemsFromStore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TouchBistroChallenge/MenuItemsList.swift"
+            timestampString = "573380904.035411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadMenuItemsFromStore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
